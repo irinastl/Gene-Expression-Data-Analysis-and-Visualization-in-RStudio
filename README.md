@@ -8,4 +8,4 @@ Publication: Michaela T Reichmann at.al. Integrated transcriptomic analysis of h
 
 Database used: (DAVID) v6.8 https://david.ncifcrf.gov/
 
-Two files are attached, under [Go to file] option above.
+Two files are attached, see [Go to file] option.
