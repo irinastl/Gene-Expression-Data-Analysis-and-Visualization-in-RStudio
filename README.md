@@ -6,4 +6,4 @@ GEO accession: GSE174443 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE1
 
 Publication: Michaela T Reichmann at.al. Integrated transcriptomic analysis of human tuberculosis granulomas and a biomimetic model identifies therapeutic targets. J Clin Invest. 2021 Aug 2;131(15):e148136. 
 
-Database for Annotation, Visualization and Integrated Discovery (DAVID ): v6.8 https://david.ncifcrf.gov/
+Database used: (DAVID) v6.8 https://david.ncifcrf.gov/
