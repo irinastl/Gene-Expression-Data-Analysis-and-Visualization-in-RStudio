@@ -1,5 +1,5 @@
 # Gene-Expression-Data-Analysis-and-Visualization-in-RStudio
-R codes and presentation
+
 bioststatistical pipeline for RNASeq data analysis, which was performed on data extracted from GEO (accession code GSE174443)
 
 GEO accession GSE174443 (TXT file) can be found at https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE174443 
@@ -8,4 +8,4 @@ Publication: Michaela T Reichmann at.al. Integrated transcriptomic analysis of h
 
 Database used: (DAVID) v6.8 https://david.ncifcrf.gov/
 
-Two files are attached, see [Go to file] option.
+Two files (R codes and presentation)  are attached, see [Go to file] option.
